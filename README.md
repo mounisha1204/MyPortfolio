@@ -1,2 +1,1 @@
-# MyPortfolio
-its all about me
+Platform specific binary for msgpackr-extract on win32 OS with x64 architecture
